@@ -1,0 +1,6 @@
+{
+  "name": "SJ© — Curated Stays Across the Globe",
+  "description": "Exclusive architectural stays, design sanctuaries, and unique homes across the globe with interactive curation, search, and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
